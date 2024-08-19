@@ -1,5 +1,6 @@
 # codesoft
 Summer Internship Projects with Codesoft
+
 During my summer internship with Codesoft, I had the opportunity to work on five projects using Python, each aimed at improving my programming skills and understanding of software development. 
 
 The projects include: 
