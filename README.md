@@ -1,2 +1,3 @@
 # codesoft
-codesoft repository for python programming
+Summer Intership with Codesodt
+
