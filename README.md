@@ -13,8 +13,6 @@ Password Generator: A tool that generates secure and random passwords.
 
 Rock-Paper-Scissors: A  game simulating the classic Rock-Paper-Scissors game.
 
-Contact Book: An application for managing contacts, including phone numbers, email addresses, and physical addresses.
-
 These projects helped me gain hands-on experience with Python programming, problem-solving, and building user-friendly applications.
 
 
